@@ -20,7 +20,7 @@ a philosopher dies of starvation.
 - No need to say that philosophers should avoid dying!
 - Each philosopher should be a thread.
 
-## Argmunets
+## Arguments
 
 Program takes the following arguments:
 number_of_philosophers time_to_die time_to_eat time_to_sleep
